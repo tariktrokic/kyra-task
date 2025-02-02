@@ -3,8 +3,10 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Getting Started
 
 .env file should be added at the root level and should include:
+```ini
 API_BASE_URL=https://saas.kyra.com/
 API_AUTH_KEY=f583305f-9bc3-42dd-a520-8520483cff5a
+```
 
 First, run the development server:
 
