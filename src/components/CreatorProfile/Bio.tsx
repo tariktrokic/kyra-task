@@ -1,4 +1,4 @@
-import { Platform } from "@/constants/common";
+import { Platform } from "@/types/common";
 import { SocialHandle } from "./SocialHandle";
 
 type BioProps = {

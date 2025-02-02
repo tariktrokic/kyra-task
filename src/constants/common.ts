@@ -1,3 +1,4 @@
+import { Platform } from "@/types/common";
 import { FaInstagram, FaYoutube } from "react-icons/fa";
 
 import { FaTiktok } from "react-icons/fa";
@@ -17,12 +18,6 @@ export const LANGUAGE_NAME_MAP = {
   fr: "French",
   de: "German",
 };
-
-export enum Platform {
-  TIKTOK = "tiktok",
-  INSTAGRAM = "instagram",
-  YOUTUBE = "youtube",
-}
 
 export const PlatformIconMap = {
   [Platform.TIKTOK]: FaTiktok,

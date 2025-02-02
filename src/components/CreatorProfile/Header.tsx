@@ -1,10 +1,7 @@
 import Image from "next/image";
 import { HiLocationMarker, HiTranslate } from "react-icons/hi";
-import {
-  LANGUAGE_NAME_MAP,
-  Platform,
-  REGION_NAME_MAP,
-} from "@/constants/common";
+import { LANGUAGE_NAME_MAP, REGION_NAME_MAP } from "@/constants/common";
+import { Platform } from "@/types/common";
 import { SocialHandle } from "./SocialHandle";
 
 type HeaderProps = {

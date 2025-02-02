@@ -1,4 +1,5 @@
-import { Platform, PlatformIconMap } from "@/constants/common";
+import { PlatformIconMap } from "@/constants/common";
+import { Platform } from "@/types/common";
 import { HiExternalLink } from "react-icons/hi";
 
 type SocialHandleProps = {

@@ -2,7 +2,7 @@
 
 import { Area, AreaChart, XAxis, YAxis } from "recharts";
 import { CreatorStatsHistory } from "@/types/api";
-import { Platform } from "@/constants/common";
+import { Platform } from "@/types/common";
 import { SocialHandle } from "./SocialHandle";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import {

@@ -3,7 +3,7 @@
 import HeatMap from "@uiw/react-heat-map";
 import { Card, CardHeader, CardTitle, CardContent } from "@/components/ui/card";
 import { SocialHandle } from "./SocialHandle";
-import { Platform } from "@/constants/common";
+import { Platform } from "@/types/common";
 
 type HistoryPoint = {
   createdAt: string;

@@ -1,5 +1,5 @@
 import { fetchCreatorStatsHistory, fetchCreatorBaseData } from "@/services/api";
-import { Platform } from "@/constants/common";
+import { Platform } from "@/types/common";
 import { Header } from "@/components/CreatorProfile/Header";
 import { Stats } from "@/components/CreatorProfile/Stats";
 import { PlatformStats } from "@/components/CreatorProfile/PlatformStats";
