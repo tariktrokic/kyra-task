@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
+## Preview
+
+https://github.com/user-attachments/assets/bcbd633e-1260-4a6a-82a0-664295f7a0ff
+
 ## Getting Started
 
 .env file should be added at the root level and should include:
